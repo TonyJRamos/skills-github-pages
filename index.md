@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Tony's Blog: Welcome to my new blog
 ---
 
